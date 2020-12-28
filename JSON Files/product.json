@@ -1,0 +1,298 @@
+// Mobile
+
+[
+    {
+    "_id": "1",
+    "name": "Motorola One Fusion+",
+    "category": 1,
+    "image":[
+        {"url":"https://i.ibb.co/BB9yW3G/motorola-one-fusion-pakf0002in-original-imafsh2zf4y3kayz.jpg"},
+        {"url":"https://i.ibb.co/6t3B7tS/motorola-one-fusion-pakf0002in-original-imafsh3ymdvwccau.jpg"}
+    ],
+    "video":"link here",
+    "cost": 17499,
+    "quntity":15,
+    "rating":8.2,
+    "about":"details",
+    "review":[
+        {
+            "id":"1",
+            "name":"Pattison",
+            "comment":"Good battery",
+            "crating":7.5
+        }
+    ]
+    },
+    {
+        "_id": "2",
+        "name": "Samsung Galaxy S20",
+        "category":2,
+        "image":[
+            {"url":"https://i.ibb.co/yVKBmbp/samsung-galaxy-s20-sm-g980fzadinu-original-imafpfkbhhtf6b8v.jpg"},
+            {"url":"https://i.ibb.co/Jc2MwJz/samsung-galaxy-s20-sm-g980fzadinu-original-imafpfkbfzgwsybf.jpg"}
+        ],
+        "video":"link here",
+        "cost": 52932,
+        "quntity":5,
+        "rating":9.2,
+        "about":"details",
+        "review":[
+            {
+                "id":"1",
+                "name":"Robert",
+                "comment":"Brilliant",
+                "crating":9.5
+            }
+        ]
+        }
+]
+
+
+//TV
+
+[
+    {
+    "_id": "1",
+    "name": "Sony Bravia W672G",
+    "category": 1,
+    "image":[
+        {"url":"https://i.ibb.co/qnrgXQN/sony-klv-43w672g-original-imafg8sdagdfzhur.jpg"},
+        {"url":"https://i.ibb.co/4txvJYK/sony-klv-43w672g-original-imafggzfw32bahcd.jpg"}
+    ],
+    "video":"link here",
+    "cost": 42990,
+    "quntity":10,
+    "rating":8,
+    "about":"details",
+    "review":[
+        {
+            "id":"1",
+            "name":"Tarun",
+            "comment":"Fabulous",
+            "crating":9
+        }
+    ]
+    },
+    {
+        "_id": "2",
+        "name": "Samsung UHD 8 Series",
+        "category":2,
+        "image":[
+            {"url":"https://i.ibb.co/16KQQ6X/samsung-un43tu8000fxza-original-imaftqrrfzhnhxhy.jpg"},
+            {"url":"https://i.ibb.co/NKDGymm/samsung-un43tu8000fxza-original-imaftqrrrvsb3qq4.jpg"}
+        ],
+        "video":"link here",
+        "cost": 46900,
+        "quntity":8,
+        "rating":9.2,
+        "about":"details",
+        "review":[
+            {
+                "id":"1",
+                "name":"Kumar",
+                "comment":"Great",
+                "crating":9.5
+            }
+        ]
+        }
+]
+
+
+//Cloths
+
+[
+    {
+    "_id": "1",
+    "name": "Tommy Hilfiger-Solid Men Polo Neck",
+    "category": 1,
+    "image":[
+        {"url":"https://i.ibb.co/yW5CtqV/m-p0cmk111-tommy-hilfiger-original-imafxvhe7wyerppz.jpg"},
+        {"url":"https://i.ibb.co/BfpVNwp/m-p0cmk111-tommy-hilfiger-original-imafxvhed9gtardc.jpg"}
+    ],
+    "video":"link here",
+    "cost": 2399,
+    "quntity":10,
+    "rating":9,
+    "about":"details",
+    "review":[
+        {
+            "id":"1",
+            "name":"Tarun",
+            "comment":"Nice Fabric",
+            "crating":9
+        }
+    ]
+    },
+    {
+        "_id": "2",
+        "name": "Levi's-Polo Neck T-Shirt",
+        "category":2,
+        "image":[
+            {"url":"https://i.ibb.co/92tzC6R/m-37856-0002-levi-s-original-imafzph7remb9hcy.jpg"},
+            {"url":"https://i.ibb.co/QN8ykLd/m-37856-0002-levi-s-original-imafzph78nstxdzk.jpg"}
+        ],
+        "video":"link here",
+        "cost": 1199,
+        "quntity":7,
+        "rating":7.2,
+        "about":"details",
+        "review":[
+            {
+                "id":"1",
+                "name":"Kumar",
+                "comment":"Good",
+                "crating":7.5
+            }
+        ]
+    }
+]
+
+
+//Shoes
+
+[
+    {
+    "_id": "1",
+    "name": "Nike-FlexRN2018",
+    "category": 1,
+    "image":[
+        {"url":"https://i.ibb.co/d5Lt4X4/aa7397-001-13-nike-black-white-original-imafpferpvc6jwrr.jpg"},
+        {"url":"https://i.ibb.co/nkY0qXy/aa7397-001-13-nike-black-white-original-imafpferxtgwnmqu.jpg"}
+    ],
+    "video":"link here",
+    "cost": 5172,
+    "quntity":10,
+    "rating":8.7,
+    "about":"details",
+    "review":[
+        {
+            "id":"1",
+            "name":"Ronak",
+            "comment":"Nice Product",
+            "crating":9
+        }
+    ]
+    },
+    {
+        "_id": "2",
+        "name": "Skechers-GORUNFAST",
+        "category":2,
+        "image":[
+            {"url":"https://i.ibb.co/wYpDdPZ/55104-10-skechers-blu-original-imafhryzfu4wzgm2.jpg"},
+            {"url":"https://i.ibb.co/zmqsy8j/55104-10-skechers-blu-original-imafhryzjbhmd6vf.jpg"}
+        ],
+        "video":"link here",
+        "cost": 3189,
+        "quntity":5,
+        "rating":7.2,
+        "about":"details",
+        "review":[
+            {
+                "id":"1",
+                "name":"Aarav",
+                "comment":"Good",
+                "crating":7.5
+            }
+        ]
+    }
+]
+
+
+//Laptops
+
+[
+    {
+    "_id": "1",
+    "name": "HP14 Core i5 10th Gen",
+    "category": 1,
+    "image":[
+        {"url":"https://i.ibb.co/LJVJJZJ/hp-na-original-imafk9zjggumtu7p.jpg"},
+        {"url":"https://i.ibb.co/L1vLP6b/hp-na-original-imafk9zjnzzuybhf.jpg"}
+    ],
+    "video":"link here",
+    "cost": 47490,
+    "quntity":10,
+    "rating":8.6,
+    "about":"details",
+    "review":[
+        {
+            "id":"1",
+            "name":"Ronak",
+            "comment":"Nice Product",
+            "crating":9
+        }
+    ]
+    },
+    {
+        "_id": "2",
+        "name": "Asus TUF Ryzen 7 Quad Core 3750H",
+        "category":2,
+        "image":[
+            {"url":"https://i.ibb.co/T4mLLDR/asus-original-imafvyfuwdf4nbhc.jpg"},
+            {"url":"https://i.ibb.co/DWBw1CG/asus-original-imafvyftvtwnhccx.jpg"}
+        ],
+        "video":"link here",
+        "cost": 59990,
+        "quntity":6,
+        "rating":9.1,
+        "about":"details",
+        "review":[
+            {
+                "id":"1",
+                "name":"Aarav",
+                "comment":"Good",
+                "crating":8.5
+            }
+        ]
+    }
+]
+
+
+//Toys
+
+[
+    {
+    "_id": "1",
+    "name": "Miss & Chief Friction Farm Tractor",
+    "category": 1,
+    "image":[
+        {"url":"https://i.ibb.co/S5fc9Yz/friction-farm-tractor-miss-chief-original-imafgccqgkdcgcg3.jpg"},
+        {"url":"https://i.ibb.co/qyZzRks/friction-farm-tractor-miss-chief-original-imafnszubsgh69zu.jpg"}
+    ],
+    "video":"link here",
+    "cost": 366,
+    "quntity":10,
+    "rating":7.6,
+    "about":"details",
+    "review":[
+        {
+            "id":"1",
+            "name":"Vicky",
+            "comment":"Nice",
+            "crating":8
+        }
+    ]
+    },
+    {
+        "_id": "2",
+        "name": "Kidz N Toys Stunt Tricycle Bump",
+        "category":2,
+        "image":[
+            {"url":"https://i.ibb.co/GpKdV05/stunt-tricycle-bump-dancing-toy-battery-operated-toy-kidz-n-toys-original-imafn4ndzqyazj92.jpg"},
+            {"url":"https://i.ibb.co/fQjRNyr/stunt-tricycle-bump-dancing-toy-battery-operated-toy-kidz-n-toys-original-imafn4ndkhvjqcjz.jpg"}
+        ],
+        "video":"link here",
+        "cost": 599,
+        "quntity":6,
+        "rating":9.1,
+        "about":"details",
+        "review":[
+            {
+                "id":"1",
+                "name":"Ryan",
+                "comment":"Good",
+                "crating":8.5
+            }
+        ]
+    }
+]
