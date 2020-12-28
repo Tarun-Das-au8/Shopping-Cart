@@ -1,0 +1,46 @@
+[
+    {
+    "_id": "1",
+    "name": "Iphone11",
+    "category": 1,
+    "image":[
+        {"url":"https://i.ibb.co/QNTgN5p/download.jpg"},
+        {"url":"https://i.ibb.co/QNTgN5p/download.jpg"}
+    ],
+    "video":"link here",
+    "cost": 48399,
+    "quntity":7365,
+    "rating":8,
+    "about":"details",
+    "review":[
+        {
+            "id":"1",
+            "name":"John",
+            "comment":"Better Camera",
+            "crating":7.5
+        }
+    ]
+    },
+    {
+        "_id": "2",
+        "name": "Mi Series1",
+        "category":2,
+        "image":[
+            {"url":"https://i.ibb.co/QNTgN5p/download.jpg"},
+            {"url":"https://i.ibb.co/QNTgN5p/download.jpg"}
+        ],
+        "video":"link here",
+        "cost": 48399,
+        "quntity":7365,
+        "rating":5,
+        "about":"details",
+        "review":[
+            {
+                "id":"1",
+                "name":"John",
+                "comment":"Not Good",
+                "crating":4.5
+            }
+        ]
+        }
+]
