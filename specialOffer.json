@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "category":1,
+        "Description":"50% of on mobile",
+        "url":""
+    },
+    {
+        "id":2,
+        "category":2,
+        "Description":"20% of on Tv",
+        "url":""
+    },
+    {
+        "id":3,
+        "category":1,
+        "Description":"Exchange offer of phone",
+        "url":""
+    }
+]
