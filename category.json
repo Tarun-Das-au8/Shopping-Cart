@@ -1,0 +1,26 @@
+[
+    {
+        "_id":1,
+        "name":"Mobile"
+    },
+    {
+        "_id":2,
+        "name":"Tv"
+    },
+    {
+        "_id":3,
+        "name":"Cloths"
+    },
+    {
+        "_id":4,
+        "name":"Shoes"
+    },
+    {
+        "_id":5,
+        "name":"Laptops"
+    },
+    {
+        "_id":6,
+        "name":"Toys"
+    }
+]
